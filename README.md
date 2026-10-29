@@ -1,0 +1,3 @@
+My solutions for the exercises of the **University of Helsinki**'s Full Stack open course. This repository contains solutions from part0 to part9 of the course. 
+
+**Full Stack Open** provides a comprehensive introduction to modern web development using JavaScript, focusing primarily on building single-page applications with React supported by RESTful and GraphQL web services built on Node.js. Beyond core full-stack development, the course covers TypeScript, React Native, Continuous Integration (CI), application debugging, container technology, configuration, runtime environment management, and databases.
